@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[Contribuciones]: https://github-readme-stats.vercel.app/api?username=sanchezih&show_icons=true&locale=en
-[Lenguajes]: https://github-readme-stats.vercel.app/api/top-langs?username=sanchezih&show_icons=true&locale=en&layout=compact
+[Contribuciones]: https://github-readme-stats.vercel.app/api?username=sanchezih&show_icons=true&hide_border=true&count_private=true&include_all_commit=true
+[Lenguajes]: https://github-readme-stats.vercel.app/api/top-langs/?username=sanchezih&hide=&langs_count=20&layout=compact&hide_border=true
 
 | Mis contribuciones | Lenguajes
 | ----------- | -----------
